@@ -3,3 +3,6 @@ jQuery(document).ready(function ($){
         speed: 800
     });
 });
+$(document).ready(function(){
+    $(".owl-demo").owlCarousel();
+  });
